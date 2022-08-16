@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.satan.unsplashimageapp">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:name=".ImageApplication"
         android:allowBackup="true"
